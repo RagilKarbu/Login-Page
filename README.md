@@ -20,7 +20,7 @@
             <div class="forgot">
                 <selection>
                     <input type="checkbox" id="check">
-                    <label for="check">remember me</label></label>
+                    <label for="check">remember me</label>
                 </selection>
                 <selection>
                     <a href="*">Forgot Password</a>
